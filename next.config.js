@@ -12,7 +12,7 @@ module.exports = (phase) => {
         MONGODB_URI:
           'mongodb+srv://ntasicc:pVQNcrzdoppLQBwl@cluster0.94cmo.mongodb.net/CoffeeShop?retryWrites=true&w=majority',
         NEXT_PUBLIC_MAP_KEY: 'test',
-        SECRET: 'mysecretkey',
+        NEXTAUTH_SECRET: 'mysecretkey',
         NEXT_PUBLIC_SEND_GRID:
           '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',
         NEXT_PUBLIC_STRIPE_PUBLIC_API_KEY:
@@ -34,7 +34,7 @@ module.exports = (phase) => {
       MONGODB_URI:
         'mongodb+srv://ntasicc:pVQNcrzdoppLQBwl@cluster0.94cmo.mongodb.net/CoffeeShop?retryWrites=true&w=majority',
       NEXT_PUBLIC_MAP_KEY: 'test',
-      SECRET: 'mysecretkey',
+      NEXTAUTH_SECRET: 'mysecretkey',
       NEXT_PUBLIC_SEND_GRID:
         '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',
       NEXT_PUBLIC_STRIPE_PUBLIC_API_KEY:
