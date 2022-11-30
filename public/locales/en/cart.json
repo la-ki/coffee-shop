@@ -1,0 +1,13 @@
+{
+  "cartTitle": "Items in Your Cart",
+  "quantity": "Quantity",
+  "remove": "Remove",
+  "priceTag": "Price: $",
+  "orderTitle": "Order Summary",
+  "itemsTotal": "Items total: $",
+  "shipping": "Shipping Costs: FREE",
+  "total": "Total: $",
+  "proceed": "Proceed to Checkout",
+  "empty": "Your cart is currently empty",
+  "infoMsg": "Once the checkout process begins you will have an hour to complete your checkout otherwise you will be returned back to the cart to start over."
+}

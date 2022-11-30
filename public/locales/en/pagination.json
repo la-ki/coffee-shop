@@ -1,0 +1,12 @@
+{
+  "Title": "Pagination, Filtering and Sorting",
+  "Card": {
+    "Name": "Name: ",
+    "Age": "Age: ",
+    "Gender": "Gender: "
+  },
+  "Btns": {
+    "NextBtn": "Next",
+    "PrevBtn": "Previous"
+  }
+}

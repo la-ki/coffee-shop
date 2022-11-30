@@ -1,0 +1,9 @@
+{
+  "title": "Welcome to your user account",
+  "subtitle1": "Save details for later",
+  "subtitle2": "Previous orders",
+  "orderDate": "Order placed on: ",
+  "by": "By: ",
+  "total": "Total: $",
+  "notification": "User profile updated"
+}

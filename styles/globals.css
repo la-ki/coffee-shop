@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  --brick: #c6453e;
+  --dark-brown: #664c47;
+  --light-brown: #8f7772;
+  --dark: #1f1c1a;
+  height: 100%;
+}
+
+main {
+  height: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Indie Flower', cursive;
+}

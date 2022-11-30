@@ -1,0 +1,11 @@
+{
+  "name": "Name",
+  "address": "Address",
+  "address2": "Address Line 2",
+  "city": "City",
+  "country": "Country",
+  "postcode": "Postal Code",
+  "back": "Back to cart",
+  "submit": "Submit Details",
+  "shipping": "Proceed to shipping"
+}

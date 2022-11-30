@@ -1,0 +1,10 @@
+{
+  "title": "Contact",
+  "sendBtn": "Submit",
+  "back": "Back",
+  "firstName": "First name",
+  "lastName": "Last name",
+  "email": "Email",
+  "message": "Message",
+  "notification": "Question submitted!"
+}

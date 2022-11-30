@@ -1,0 +1,12 @@
+export const BASE_PAGE = '/';
+export const CHECKOUT_PAGE = '/checkout';
+export const CART_PAGE = '/cart';
+export const SHIPPING_PAGE = '/shipping';
+export const REVIEW_PAGE = '/review';
+export const PRODUCTS_PAGE = '/products';
+export const LOGIN_PAGE = '/auth';
+export const PROFILE_PAGE = '/profile';
+export const REGISTER_PAGE = '/auth/register';
+export const FORGOT_PASSWORD_PAGE = '/auth/forgot-password';
+export const SINGLE_DATA_PAGE = '/single-data/';
+export const CONTACT_PAGE = '/contact';

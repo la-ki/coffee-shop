@@ -1,0 +1,10 @@
+{
+  "orderMsg": "ORDER COMPLETE SUCCESSFULLY",
+  "note": "Thank you for placing your order with us. We wll get to work on sending your order as soon as possible",
+  "title": "Order Summary",
+  "date": "Order placed on: ",
+  "email": "Email",
+  "total": "Total: $",
+  "shipping": "Shipping Address: ",
+  "back": "Back to Home"
+}

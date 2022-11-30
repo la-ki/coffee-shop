@@ -1,0 +1,11 @@
+{
+  "title": "Shipping",
+  "subtitle": "The following fields will be used as the shipping details for your order",
+  "contact": "Contact",
+  "shipping": "Shipping to",
+  "shippingCost": "Free Shipping",
+  "changeBtn": "Change",
+  "back": "Back to cart",
+  "continue": "Continue to payment",
+  "email": "Email"
+}

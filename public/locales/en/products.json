@@ -1,0 +1,19 @@
+{
+  "title": "Welcome to our Store!",
+  "description": " Our focus is to bring you the very best in the world of coffee. Everything from fresh coffee beans, the best coffee powders and capsules as well as other miscellaneous items such as cups and mugs. Take a look to see if anything takes your fancy.",
+  "sort": "Sort",
+  "asc": "Name - A-Z",
+  "desc": "Name - Z-A",
+  "type": "Product Type",
+  "all": "All",
+  "coffee": "Coffee",
+  "mug": "Mug",
+  "loading": "Loading...",
+  "more": "Load More",
+  "end": "Nothing more to load",
+  "add": "Add to cart",
+  "in": "In Cart",
+  "similar": "Similar Products You May Like",
+  "purchase": "Purchase",
+  "category": "Category"
+}
