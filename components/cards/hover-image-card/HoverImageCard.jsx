@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import styles from './hover-image-card.module.css';
 
 const HoverImageCard = () => {
@@ -10,7 +11,7 @@ const HoverImageCard = () => {
           <button className={styles.btn}>More Details</button>
         </div>
         {/*Change with Next Image*/}
-        <img src="/images/image-one.jpg" alt="text" />
+        <Image src="/images/image-one.jpg" alt="text" />
       </div>
       <div className={styles.card}>
         <div className={styles.content}>
@@ -19,7 +20,7 @@ const HoverImageCard = () => {
           <button className={styles.btn}>Button Text</button>
         </div>
         {/*Change with Next Image*/}
-        <img src="/images/image-one.jpg" alt="text" />
+        <Image src="/images/image-one.jpg" alt="text" />
       </div>
       <div className={styles.card}>
         <div className={styles.content}>
@@ -28,7 +29,7 @@ const HoverImageCard = () => {
           <button className={styles.btn}>Button Text</button>
         </div>
         {/*Change with Next Image*/}
-        <img src="/images/image-one.jpg" alt="text" />
+        <Image src="/images/image-one.jpg" alt="text" />
       </div>
     </div>
   );

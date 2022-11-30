@@ -1,6 +1,6 @@
 import { Box } from '@mui/system';
 import ProductType from '../product-type/ProductType';
-import Sort from '../sort/sort';
+import Sort from '../sort/Sort';
 
 const FilterSort = ({
   sort,
