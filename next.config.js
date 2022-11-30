@@ -39,8 +39,8 @@ module.exports = (phase) => {
         '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',
       NEXT_PUBLIC_STRIPE_PUBLIC_API_KEY:
         'pk_test_51Lg3phDY7dvAcw2fNi1ACbS7S0SrEQs7SQUwA9YfKrLvjRH1jyV4nwM8fg32Adfxzn5uXitNGqsyPPtavpdR8UU800rxDPajp8',
-      domain_name: 'coffee-shop-diligent.vercel.app',
-      NEXTAUTH_URL: 'https://coffee-shop-diligent.vercel.app',
+      domain_name: 'https://coffee-shop-la-ki.vercel.app/',
+      NEXTAUTH_URL: 'https://coffee-shop-la-ki.vercel.app/',
     },
     reactStrictMode: true,
     swcMinify: true,
